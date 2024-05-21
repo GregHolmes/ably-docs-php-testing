@@ -1,0 +1,19 @@
+{
+    "name": "gregholmes/ably-docs-php-testing",
+    "description": "A runnable example of each code sample found within the Ably docs.",
+    "keywords": ["ably"],
+    "homepage": "https://www.ably.com/",
+    "require": {
+        "ably/ably-php": "^1.1",
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.6",
+        "vlucas/phpdotenv": "^5.6"
+    },
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Greg Holmes",
+            "email": "greg.holmes@ably.com"
+        }
+    ]
+}
